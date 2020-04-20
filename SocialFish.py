@@ -67,7 +67,7 @@ def end(): #Message when SocialFish exit
                {0}NOW WITH LIVE VICTIM ATTACK INFORMATION ]
           {0}A KEYLOGGER IS DEPLOYED FOR YOU, TO CAPTURE EVERY KEYSTROKE ]
    [ {0} Some more phising pages have been added in script. For a better Attack]
-[ {0} WELCOME TO SOCIALFISH V3.0  by-An0nUD4Y]\n {1}'''.format(GREEN, DEFAULT, CYAN))
+[ {0} WELCOME TO SOCIALFISH V3.0  by-Arslan]\n {1}'''.format(GREEN, DEFAULT, CYAN))
 
 def loadModule(module):
        print ('''{0}
@@ -205,7 +205,7 @@ def waitCreds():
 
 def runPEnv(): #menu where user select what they wanna use
     system('clear')
-    print ('''           {2}-{1} An0nUD4Y {2}|{1} An0nUD4Y {2}|{1} An0nUD4Y {2}- INDIA
+    print ('''           {2}-{1} Arslan {2}|{1} Anonymous {2}|{1} Arsal {2}- nimo
                        .   .  .
                  .  '  .        '                        '
              '             '      '                   '   '
